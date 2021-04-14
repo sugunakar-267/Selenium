@@ -1,0 +1,4 @@
+[0907/174114.163:ERROR:file_io_win.cc(180)] CreateFile C:\Users\kamal\AppData\Local\Temp\scoped_dir19856_191167873\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[1023/154510.579:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1023/155052.135:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1118/154224.582:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
